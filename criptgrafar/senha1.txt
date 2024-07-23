@@ -1,0 +1,6 @@
+
+m@hotmail.com    abc123
+m1@gmail.com     bca321
+banco x          123456
+banco y          654321
+amazon           Teste$amazon%

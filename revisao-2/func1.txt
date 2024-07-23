@@ -1,0 +1,6 @@
+Ana Luiza	1600.0	0
+Pedro Falco	2600.0	2
+Joel Cabeça	3900.0	1
+Nomes	Salário	Dependentes
+Beatriz	1750.0	1
+Luiz 	9000.0	1
